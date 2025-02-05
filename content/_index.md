@@ -121,7 +121,7 @@ sections:
               - Practice: Jupyter, R, Rstudio.
         - title: BEng
           company: Jiangsu University of Science and Technology
-          company_url: 'https://en.xidian.edu.cn/'
+          company_url: 'https://en.just.edu.cn/'
           company_logo: org-just
           location: Zhenjiang
           date_start: '2017-09-01'
