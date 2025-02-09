@@ -29,10 +29,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
+  - Single Cell Omics Algorithm for Cell Fate Prediction
+  - Machine Learning
   - Bioinformatics
-  - scRNA-seq
-  - Deep Learning
-  - Graph Mining
 
 # Education to show in About widget
 education:
